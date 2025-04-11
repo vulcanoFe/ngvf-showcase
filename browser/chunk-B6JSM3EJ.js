@@ -1,0 +1,1 @@
+import{I as t,La as i,Q as e,Va as r}from"./chunk-F3FNOPWT.js";var c=class o{constructor(){}static \u0275fac=function(n){return new(n||o)};static \u0275mod=e({type:o});static \u0275inj=t({imports:[i,r,i]})};export{c as a};
